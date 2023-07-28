@@ -1,0 +1,4 @@
+numpy
+pandas
+
+-e . # used to install setup file in requirements
